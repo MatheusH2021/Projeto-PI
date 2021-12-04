@@ -93,7 +93,6 @@ td a{
     width: 25vw;
     margin-top: 30px;
 }
-
 .navbar{
     width: 100%;
     border-bottom: 3px solid blue;
@@ -103,6 +102,15 @@ td a{
     font-family: 'Pacifico', cursive;
     font-size: 5rem;
     color:blue;
+}
+.pesquisa{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 28em;
+    width: 30em;
+}
+.pesquisa input{
+    margin-top: 5px;
 }
 
 /* IDs */

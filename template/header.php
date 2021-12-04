@@ -22,6 +22,9 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
+                            <a class="nav-link active" href="consultarENC.php">Consultar Encomenda</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link active" href="entregador.php">Cadastro de Entregadores</a>
                         </li>
                         <li class="nav-item">

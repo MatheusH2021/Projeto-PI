@@ -19,7 +19,7 @@
                 <br>
                 <button type="submit" class="btn btn-outline-warning" onclick ="recarregar()">Cadastrar</button>
                 <?php
-                    include_once 'functions/selectENT.php';
+                    include_once 'functions/select.php';
                     include_once 'functions/insert.php';
                     include_once 'functions/curl.php';
                 

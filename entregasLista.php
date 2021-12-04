@@ -11,7 +11,7 @@
         <table class="table">
             <thead>
                 <td>ID</td>
-                <td>Rastreador</td>
+                <td>COD Rastreador</td>
                 <td>CEP</td>
                 <td>Bairro</td>
                 <td>Entregador</td>
