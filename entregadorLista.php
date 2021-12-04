@@ -47,6 +47,9 @@
                 } 
             ?>
             </tbody>
+            <div style='margin-top: 5px;'class='alert alert-danger' role='alert'>
+                OBS: Ao remover Entregadores com entregas pendentes, as entregas também serão removidas!!
+            </div>
         </table>
     </main>
 <?php
